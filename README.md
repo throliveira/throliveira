@@ -34,7 +34,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas com uma paixão arden
 
 ##  Entre em contato
 
-* Sinta-se à vontade para me enviar um e-mail em SEU_EMAIL.
+* Sinta-se à vontade para me enviar um e-mail em henriqueoliov1990@gmail.com.
 
 Obrigado por visitar meu perfil!
 
