@@ -24,7 +24,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas com uma paixão arden
 
 ##  Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=throliveira&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚡ Curiosidades
 
